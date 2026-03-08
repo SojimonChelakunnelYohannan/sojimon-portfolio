@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sojimon-portfolio/static/css/main.eb781caa.css",
+    "main.js": "/sojimon-portfolio/static/js/main.3bfac3d4.js",
+    "static/js/453.b175fb9a.chunk.js": "/sojimon-portfolio/static/js/453.b175fb9a.chunk.js",
+    "index.html": "/sojimon-portfolio/index.html",
+    "main.eb781caa.css.map": "/sojimon-portfolio/static/css/main.eb781caa.css.map",
+    "main.3bfac3d4.js.map": "/sojimon-portfolio/static/js/main.3bfac3d4.js.map",
+    "453.b175fb9a.chunk.js.map": "/sojimon-portfolio/static/js/453.b175fb9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb781caa.css",
+    "static/js/main.3bfac3d4.js"
+  ]
+}
