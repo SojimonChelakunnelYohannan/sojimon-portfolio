@@ -23,9 +23,9 @@ export default function Navbar({ mode, setMode }) {
               {l.label}
             </a>
           ))}
-          <a href="/resume.pdf" className="nav-link">
+          {/*<a href="/resume.pdf" className="nav-link">
             Resume
-          </a>
+          </a>*/}
         </nav>
 
         <div className="nav-actions">
