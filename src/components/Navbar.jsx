@@ -63,9 +63,9 @@ export default function Navbar({ mode, setMode }) {
                 {l.label}
               </a>
             ))}
-            <a href="/resume.pdf" onClick={() => setOpen(false)}>
+            {/*<a href="/resume.pdf" onClick={() => setOpen(false)}>
               Resume
-            </a>
+            </a>*/}
           </motion.nav>
         )}
       </AnimatePresence>

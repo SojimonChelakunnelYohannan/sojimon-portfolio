@@ -18,7 +18,7 @@ const projects = [
   },
   {
     title: "Micro‑Frontend Banking Suite",
-    company: "Capgemini (Client: Banking)",
+    company: "Capgemini",
     role: "Consultant",
     context: "React micro‑frontend architecture for a financial platform.",
     tech: "React, micro‑frontends, Context API, Hooks, Jest, Enzyme",

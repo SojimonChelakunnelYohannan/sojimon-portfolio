@@ -127,6 +127,9 @@ section {
   align-items: center;
   gap: 6px;
 }
+.menu-toggle {
+  display: none;
+}
 
 [data-theme="dark"] .theme-toggle,
 [data-theme="dark"] .menu-toggle {
@@ -398,6 +401,9 @@ section {
   }
 
   .mobile-menu {
+    display: flex;
+  }
+  .menu-toggle {
     display: flex;
   }
 }
